@@ -9,7 +9,7 @@ Usage
 
 2)Enter information
 
-3)Client Side Validation or ConsoleUI validatation.
+3)Client Side Validation or ConsoleUI Server Side validatation.
 
 Results
 -------
