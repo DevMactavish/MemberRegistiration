@@ -1,5 +1,0 @@
-C:\Users\mert.talayoglu\Documents\Visual Studio 2017\Projects\MemberRegistration\MemberRegistration.Entities\bin\Debug\MemberRegistration.Entities.dll
-C:\Users\mert.talayoglu\Documents\Visual Studio 2017\Projects\MemberRegistration\MemberRegistration.Entities\bin\Debug\MemberRegistration.Entities.pdb
-C:\Users\mert.talayoglu\Documents\Visual Studio 2017\Projects\MemberRegistration\MemberRegistration.Entities\obj\Debug\MemberRegistration.Entities.csproj.CoreCompileInputs.cache
-C:\Users\mert.talayoglu\Documents\Visual Studio 2017\Projects\MemberRegistration\MemberRegistration.Entities\obj\Debug\MemberRegistration.Entities.dll
-C:\Users\mert.talayoglu\Documents\Visual Studio 2017\Projects\MemberRegistration\MemberRegistration.Entities\obj\Debug\MemberRegistration.Entities.pdb
